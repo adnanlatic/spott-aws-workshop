@@ -11,6 +11,8 @@ Linux/OSX: /etc/hosts
 127.0.0.1 spott-aws-workshop
 ```
 
+clone this repository into your spott-docker/webroot folder
+
 checkout docker branch spott-aws-workshop
 
 ```sh
