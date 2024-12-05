@@ -9,7 +9,7 @@ Linux/OSX: /etc/hosts
 
 ```sh
 127.0.0.1 spott-aws-workshop
-```sh
+```
 
 checkout docker branch spott-aws-workshop
 
